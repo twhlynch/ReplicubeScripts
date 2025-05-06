@@ -1,0 +1,21 @@
+# python
+/bin
+/include
+/lib
+/share
+pyvenv.cfg
+
+# in
+*.png
+*.obj
+
+# out
+*.vox
+*.pnt
+
+# example
+!example/*
+
+# readme
+!rick.png
+!dragon.png
